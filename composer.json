@@ -1,0 +1,15 @@
+{
+    "name": "admin/ttphp",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Ttphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JhonasRM",
+            "email": "jhonas.rodrigues32@gmail.com"
+        }
+    ],
+    "require": {}
+}
